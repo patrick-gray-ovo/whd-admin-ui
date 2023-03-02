@@ -1,0 +1,13 @@
+src/pol
+src/nexum
+src/services
+
+src/testsApi/nexum
+
+src/testsApi/pol/bacs/features
+src/testsApi/pol/cards/features
+
+src/testsApi/bacs/util/reports/
+src/testsApi/bacs/util/reports/all-bacs-tests.htm
+
+*.html

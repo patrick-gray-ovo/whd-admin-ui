@@ -1,0 +1,14 @@
+name: Name Of Test Run
+
+env:
+    cmd_test: npm run your-test-script
+
+on:
+    schedule:
+        - cron: "0 0 * * *" # change to whatever cron schedule you want
+    workflow_dispatch:
+
+
+jobs:
+    daily_test:
+      # insert all your jobs below here
